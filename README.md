@@ -94,12 +94,13 @@
 ## 🐠 Aquarium Zone 🎮
 
 <p align="center">
-  <img src="[https://media.tenor.com/xyz123abc/ffxiv-aquarium-fish-tank-colorful.gif](https://tenor.com/id/view/aquario-aquarium-fish-gif-15852463)" width="600" />
+  <img src="https://raw.githubusercontent.com/MuhammadNafeezKh/MuhammadNafeezKh/main/aqu.gif" width="600" />
 </p>
 
 <p align="center">
-  🐠 Sakana!! 🐟
+  🐟 ゆっくりしていってね 🐠
 </p>
+
 ---
 
 ⭐ From [MuhammadNafeezKh](https://github.com/MuhammadNafeezKh)  
