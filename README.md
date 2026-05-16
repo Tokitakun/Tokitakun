@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  🐟 SANAKAAA!!! 🐠
+  🐟 SAKANAAA!!! 🐠
 </p>
 
 ---
