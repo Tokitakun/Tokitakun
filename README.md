@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  🐟 ゆっくりしていってね 🐠
+  🐟 SANAKAAA!!! 🐠
 </p>
 
 ---
