@@ -92,14 +92,21 @@
 
 ---
 
-## 📊 GitHub データ
+## 🐠 Aquarium Stats Zone 🎮
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadNafeezKh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="49%" />
+<p align="center">
+  <img src="https://media.tenor.com/8YvQZgYm4psAAAAi/fish-aquarium.gif" width="600" />
+</p>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadNafeezKh&theme=dark&hide_border=false" width="49%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadNafeezKh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="45%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadNafeezKh&theme=dark&hide_border=false" width="45%" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNafeezKh&theme=dark&hide_border=false&layout=compact" width="49%" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNafeezKh&theme=dark&hide_border=false&layout=compact" width="45%" />
+  <img src="https://media1.tenor.com/m/rFozP_y6lMsAAAAC/pacman-game.gif" width="45%" />
+</p>
 ---
 
 ⭐ From [MuhammadNafeezKh](https://github.com/MuhammadNafeezKh)  
