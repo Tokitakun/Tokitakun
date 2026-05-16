@@ -94,17 +94,14 @@
 
 ## 🐠 Aquarium Time 🐡
 
-<div align="center">
-  <img src="https://media.tenor.com/8YvQZgYm4psAAAAi/fish-aquarium.gif" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://media.tenor.com/UhWkOZ7Z7aYAAAAi/aquarium.gif" width="49%" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdkaW13d3Rld2FpdTliaHNwdW1oMnpkdW1rN2xya3EzNGlyd2xndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwIyvaNcnzsD6/giphy.gif" width="49%" />
-</div>
+## 🐠 Aquarium Zone 🎮
 
 <p align="center">
-  🐠 ゆっくりしていってね 🐟
+  <img src="https://media.tenor.com/xyz123abc/ffxiv-aquarium-fish-tank-colorful.gif" width="600" />
+</p>
+
+<p align="center">
+  🐠 Akuarium dari FFXIV, warnanya sangat indah! 🐟
 </p>
 ---
 
