@@ -92,20 +92,19 @@
 
 ---
 
-## 🐠 Aquarium Stats Zone 🎮
-
-<p align="center">
-  <img src="https://media.tenor.com/8YvQZgYm4psAAAAi/fish-aquarium.gif" width="600" />
-</p>
+## 🐠 Aquarium Time 🐡
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadNafeezKh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="45%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadNafeezKh&theme=dark&hide_border=false" width="45%" />
+  <img src="https://media.tenor.com/8YvQZgYm4psAAAAi/fish-aquarium.gif" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://media.tenor.com/UhWkOZ7Z7aYAAAAi/aquarium.gif" width="49%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdkaW13d3Rld2FpdTliaHNwdW1oMnpkdW1rN2xya3EzNGlyd2xndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwIyvaNcnzsD6/giphy.gif" width="49%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNafeezKh&theme=dark&hide_border=false&layout=compact" width="45%" />
-  <img src="https://media1.tenor.com/m/rFozP_y6lMsAAAAC/pacman-game.gif" width="45%" />
+  🐠 ゆっくりしていってね 🐟
 </p>
 ---
 
