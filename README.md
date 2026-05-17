@@ -91,8 +91,6 @@
 </p>
 
 ---
-## 🐠 Aquarium Zone 🎮
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/MuhammadNafeezKh/MuhammadNafeezKh/main/aqu.gif" width="600" />
 </p>
