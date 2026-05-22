@@ -1,38 +1,40 @@
 # 👋 こんにちは、ムハンマド・ナフィスです
 
-💻 **日本のIT会社を目指しているグローバルWeb開発者**  
-✨ JavaScriptを使って、大きくて便利なWebアプリを作っています。
+💻 **日本のIT会社で働きたいWeb開発者です**  
+✨ JavaScriptで大きくて便利なWebアプリを作っています。
 
 ---
 
-## 🌍 キャリアの目標
+## 🌍 将来の目標
 
-- 🇯🇵 日本のIT会社で働く準備をしています  
-- 🌏 世界中のチームとリモートで働くことに興味があります  
+- 🇯🇵 日本のIT会社で働きたいです  
+- 🌏 世界中のチームとリモートで働きたいです  
 - 🎯 本番で使えるフルスタックJavaScriptエンジニアになりたいです
 
 ---
 
 ## 🧠 自己紹介
 
-はじめまして。  
-私は**ムハンマド・ズルンナフィス・ハイルッディン（ナフィス）**と申します。
+はじめまして。
 
-📍 インドネシア在住  
-🎨 フロントエンド開発者 / UI/UXデザイン興味あり
+私の名前は**ムハンマド・ズルンナフィス・ハイルッディン**です。  
+「ナフィス」と呼んでください。
 
-💡 ただ動くだけではなく、**きれいで使いやすい画面**を作ることに情熱を持っています。  
-📚 今は**Flutter**、**Next.js**、そのほかのモダンなフロントエンド技術を勉強中。  
+📍 インドネシアに住んでいます  
+🎨 フロントエンド開発とUI/UXデザインに興味があります
+
+💡 動くだけじゃなくて、**きれいで使いやすい画面**を作るのが好きです。  
+📚 今は**Flutter**、**Next.js**、その他のモダンな技術を勉強しています。  
 🖌️ 自分のポートフォリオも作っています。
 
-🗣️ **日本語の会話はN5レベルができます。**
+🗣️ **日本語で簡単な会話ができます（N5〜N4レベル）**
 
-🎧 コーディング以外では、外国語を調べたり、ゲームをしたり、音楽を聞いたりするのが好きです。  
-🧠 **INFJ-T** です。
+🎧 趣味は、外国語を調べること、ゲーム、音楽を聞くことです。  
+🧠 性格は**INFJ-T**です。
 
 ---
 
-## 🛠 技術スタック
+## 🛠 使える技術
 
 ### 🎨 フロントエンド
 
@@ -48,8 +50,8 @@
 </p>
 
 **📌 大事にしていること**  
-- 🧩 コンポーネントベースの設計  
-- 📱 レスポンシブデザイン  
+- 🧩 コンポーネントで作ること  
+- 📱 スマホでも見やすいデザイン  
 - ✨ きれいなUI
 
 ---
@@ -58,6 +60,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -66,9 +70,9 @@
 </p>
 
 **📌 大事にしていること**  
-- 🔌 REST APIの開発  
-- 🗄️ データベース設計  
-- 🔐 認証システム  
+- 🔌 REST APIを作ること  
+- 🗄️ データベースの設計  
+- 🔐 ログイン機能  
 - ☁️ デプロイとサーバーレス
 
 ---
@@ -96,7 +100,7 @@
 </p>
 
 <p align="center">
-  🐟 SAKANAAA!!! 🐠
+  🐟 サカナーー！！！ 🐠
 </p>
 
 ---
