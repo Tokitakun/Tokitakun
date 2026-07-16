@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nafis</h1>
 
 <p align="center">
-  💻 Frontend Developer • Backend Enthusiast • Data Analyst
+  💻 Frontend Enthusiast
 </p>
 
 ---
