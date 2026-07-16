@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Muhammad Nafis</h1>
 <p align="center">
-Frontend Developer • Backend Enthusiast • Student from Indonesia 🇮🇩
+Frontend Developer • Student from Indonesia 🇮🇩
 </p>
 
 ---
