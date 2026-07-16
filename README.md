@@ -68,12 +68,3 @@ Frontend Enthusiast
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadNafeezKh/MuhammadNafeezKh/main/aqu.gif" width="550"/>
-</p>
-
-<p align="center">
-🐟 サカナーー！！！ 🐠
-</p>
