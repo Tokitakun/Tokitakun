@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nafis</h1>
 
 <p align="center">
-Frontend Enthusiast 
+  💻 Frontend Developer • Backend Enthusiast • Data Analyst
 </p>
 
 ---
@@ -33,20 +33,16 @@ Frontend Enthusiast
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tokitakun&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokitakun&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Tokitakun&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&column=4&margin-w=10"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tokitakun&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
